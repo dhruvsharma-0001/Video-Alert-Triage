@@ -1,0 +1,10 @@
+# Local datasets and generated artifacts
+/data/raw/
+/data/processed/
+/data/artifacts/
+
+# Python environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
